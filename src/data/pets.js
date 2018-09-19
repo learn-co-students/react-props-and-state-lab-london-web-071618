@@ -303,7 +303,7 @@ const allPets = [
     age: 4,
     weight: 4,
     name: 'Flurry',
-    isAdopted: false,
+    isAdopted: true,
   },
   {
     id: '6c8e937e-3104-4ceb-a3c7-8cdd6ee90082',
